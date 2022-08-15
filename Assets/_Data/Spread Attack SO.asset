@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffd102f035167764c8a3c80567a4aeac, type: 3}
+  m_Name: Spread Attack SO
+  m_EditorClassIdentifier: 
+  attackDelay: 0.2
+  projectile: {fileID: 8735426833441098796, guid: f816b70780456a34497ab0a5a09dcdb9, type: 3}
+  weaponSFX: {fileID: 8300000, guid: d735b990679568c47b5ecb093fede698, type: 3}
+  angleDegrees: 5

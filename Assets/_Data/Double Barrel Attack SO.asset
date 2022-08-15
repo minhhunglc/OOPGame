@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 260f5ff24e605844c995400b6bcb684d, type: 3}
+  m_Name: Double Barrel Attack SO
+  m_EditorClassIdentifier: 
+  attackDelay: 0.5
+  weaponSFX: {fileID: 8300000, guid: 286649637075013438cfc1b595461b20, type: 3}
+  projectile: {fileID: 8735426833441098796, guid: f816b70780456a34497ab0a5a09dcdb9, type: 3}
+  offsetFromShootingPoint: 0.3
